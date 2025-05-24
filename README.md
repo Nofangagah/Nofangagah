@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Nofan Zohrial
 
-<!--
-**Nofangagah/Nofangagah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **web developer and cloud enthusiast** with a passion for building applications using JavaScript, PHP, and cloud-native technologies. I enjoy exploring new tools, contributing to open-source projects, and being part of the developer community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+### 💻 Frontend
+- React.js  
+- Next.js  
+- Dart (Flutter)  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- PHP  
+- Golang  
+
+### 🗄️ Databases
+- MySQL  
+- PostgreSQL  
+- Firebase (Firestore, Realtime Database)  
+
+### ☁️ Cloud & Tools
+- Google Cloud Platform (GCP)  
+- Cloud Functions, Firestore, App Engine  
+- Git & GitHub  
+- RESTful APIs  
+- Postman  
+
+### 🔧 Programming Languages
+- JavaScript  
+- PHP  
+- Dart  
+- Go  
+- C++  
+
+---
+
+## 📊 GitHub Stats
+
+![Nofan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nofanzohrial&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nofanzohrial&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: nofanzohrial@gmail.com.com  
+- 💼 LinkedIn: [linkedin.com/in/nofanzohrial](https://www.linkedin.com/in/nofanzohrial)  
+-
+
+---
+
+> _"Keep learning, keep building, and keep sharing."_ 🚀
+
+
+> _"Keep learning, keep building, and keep sharing."_ 🚀
