@@ -3,7 +3,7 @@
 I’m a **web developer and cloud enthusiast** with a passion for building applications using JavaScript, PHP, and cloud-native technologies. I enjoy exploring new tools, contributing to open-source projects, and being part of the developer community.
 
 ---
-
+### 💻 Tech Stack:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
