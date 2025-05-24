@@ -34,7 +34,6 @@ I’m a **web developer and cloud enthusiast** with a passion for building appli
 
 - 📧 Email: nofanzohrial@gmail.com.com  
 - 💼 LinkedIn: [linkedin.com/in/nofanzohrial](https://www.linkedin.com/in/nofanzohrial)  
--
 
 ---
 
