@@ -55,5 +55,3 @@ I’m a **web developer and cloud enthusiast** with a passion for building appli
 
 > _"Keep learning, keep building, and keep sharing."_ 🚀
 
-
-> _"Keep learning, keep building, and keep sharing."_ 🚀
