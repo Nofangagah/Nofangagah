@@ -3,6 +3,7 @@
 I’m a **web developer and cloud enthusiast** with a passion for building applications using JavaScript, PHP, and cloud-native technologies. I enjoy exploring new tools, contributing to open-source projects, and being part of the developer community.
 
 ---
+
 ### 💻 Tech Stack:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
@@ -15,24 +16,30 @@ I’m a **web developer and cloud enthusiast** with a passion for building appli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Golang" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />
 </p>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
+
+![Most Used Languages](https://raw.githubusercontent.com/nofanzohrial/nofanzohrial/main/assets/most-used-languages.svg)
+
+---
+
+## 📈 GitHub Stats
 
 ![Nofan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nofanzohrial&show_icons=true&theme=tokyonight&cache_bust=202506221737)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nofanzohrial&layout=compact&theme=tokyonight&cache_bust=202506221737)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: nofanzohrial@gmail.com.com
+- 📧 Email: nofanzohrial@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/nofanzohrial](https://www.linkedin.com/in/nofanzohrial)
 
 ---
