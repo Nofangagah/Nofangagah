@@ -23,20 +23,6 @@ I’m a **web developer and cloud enthusiast** with a passion for building appli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />
 </p>
 
----
-
-## 📊 Most Used Languages
-
-![Most Used Languages](https://raw.githubusercontent.com/nofanzohrial/nofanzohrial/main/assets/most-used-languages.svg)
-
----
-
-## 📈 GitHub Stats
-
-![Nofan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nofanzohrial&show_icons=true&theme=tokyonight&cache_bust=202506221737)
-
----
-
 ## 📫 Contact
 
 - 📧 Email: nofanzohrial@gmail.com
